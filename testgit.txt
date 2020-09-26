@@ -1,6 +1,7 @@
 testgit
 modified 
 modified in devR should be associated to bgctw
-modified in twutz/devRpriv associate to progtw, 2nd try
+modified in twutz/devRpriv associate to progtw, 4th trial
+only works with git 2.13, hence only on ikaria so far
 
 
